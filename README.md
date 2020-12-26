@@ -12,9 +12,11 @@ There is various video on youtube where explain the schema to build for stripes 
  HOW TO:
 
   make executable:
+  
      $:chmod +x led.py
 
-  add to crontab with 
+  add to crontab with :
+  
      $:crontab -e
 
   In editor add to last line:  !! Change /___folder_where_/your_put_the_file___/ with the folder
